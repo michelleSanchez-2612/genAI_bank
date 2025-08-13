@@ -7,6 +7,7 @@ En este repositorio se encuentra un agente con generative AI implementado en pyt
 Para su ejecución se debe realizar los siguientes pasos:
 
 1. Instalación de Dependencias:
+   
    pip install -U langchain-community   
    pip install faiss-cpu   
    pip install google-generativeai   
